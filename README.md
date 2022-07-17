@@ -6,11 +6,11 @@ Some extensions to enable haptic feedback in SwiftUI using some easy modifiers.
 
 # We support:
 
-[x] NotificationFeedback
+ - [x] NotificationFeedback
 
-[x] ImpactFeedback
+ - [x] ImpactFeedback
 
-[x] SelectionFeedback
+ - [x] SelectionFeedback
 
 
 
